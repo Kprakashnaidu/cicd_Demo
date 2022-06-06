@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cicd-demo
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: au.com.helderklemp
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cicd-demo
+Created-By: Maven Integration for Eclipse
+
